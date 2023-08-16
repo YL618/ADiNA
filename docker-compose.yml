@@ -1,0 +1,26 @@
+version: "3"
+services:
+  tts-test:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: tts-test:latest
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.tts-test.rule=Host(`adina.cim.mcgill.ca`) && PathPrefix(`/test`)"
+      - "traefik.http.routers.tts-test.middlewares=tts-test@docker"
+      - "traefik.http.middlewares.tts-test.stripprefix.prefixes=/test"
+      - "traefik.http.services.tts-test.loadbalancer.server.port=4100"
+      - "traefik.http.routers.tts-test.entrypoints=web"
+      - "traefik.docker.network=traefik"
+    ports:
+      - "4100:4100"
+      - "8030:8030"
+    volumes:
+      - /var/docker/adina/AdinaTTS/:/app
+
+networks:
+  default:
+    external:
+      name: traefik
+

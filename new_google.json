@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "psychosis-367403",
+  "private_key_id": "d558748b6cb7270f7101cca332af74b330494f7a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzZcGVDzq54cVu\nGugeSt5JGg4q6fVr8IxrTcs1B+Ozz+oeS6ji99hz6Vv1HxU+Bz/V0NTpRXeK7nKF\npOwMplhvU7XcYnm2yS7YfyT89bi5bYXTE1CCVZwpWmVeV8nFEeZqVknHfLfwC43w\nUcvBDCe3B5WAeG/1CQUurkQLs6qggRr9kndAxTbtE43OjOpfEQzChV8ZH9mDf+hr\n3dk4w0qATBv2IH6gWcTXbtS3h5UvfDpRW81ig+JejWTZznOeh+qGq7dVOeI8aegs\nfg5gn+saE0nRC8DnSlFWUNVFuVIZHYeJ9KElRZLuwDQ813x1pZd1f9XFOuun0Sdd\nP0OHYjgNAgMBAAECggEAKJq7/ZKEXsVArAKwDgcxF8erdEAfGe7IwZLKjza5bZ3+\nJhxG3hRt7BJiC3GdG7yFUM5jGmdsPshoqGIjQVu3QX9ndrndRad0kHD6vLybMnEd\nLKC/BLj+zwdUUU26b/30spXUPjA268CZwE6rOQcYyB8R0hGweXwwrZeo9CMW2Bvv\njK7wQB7pJVpHsbFUevS78DT+8gtLpM38NJ69x4BIguURZbBrcMKqTNcSAPst3VES\n5Vk1aTQUNXwNhYJ+ubBqBb78doyhJJ7xc7M+XQBfZwtcN2ogzHRBGcm71H03sOVB\naegurREz9y+qJ7tCMv9pgKUubtUZSrOTQSMCskuaYQKBgQDhzYUy+jIsFIY8WxJO\n1ARF1qAV4doSlScb2l+Dl3zBFcxqvoiBHVedYR5pzVet30e8y65wFCrWLQy1KD8S\nItzsgKV/PSq5QppLCN1lD+f3gEm5iDPsDUKxkBPxo0Uzrc9NUH5UQjY2hLBm0HBy\ngL9vNfwWggV+GsuE2SUlbNK+XQKBgQDLY4ZTYl2xTAlppclI7oOX2cRayvBAKxxi\n8AAgdAPF6WN6h68HHOO+fSaPe+4DqPcXKjlZo+NxYsvavAtO4CJjxEUw2EwNazIz\nQedeBaQkCZKx98Z1FZZHnCXbJfgZGgdivECBR1UZ17N3CgX/PlS2pRFKBvFBeg64\n2DJisy/lcQKBgH5Q8HCiEisimC1vbQB4DqPa+tcC73Fxyt0D/mao+fsx7JbSW56P\nAZJi4Baj7qavv3vYHY9JWOVTckZta0sEAb60AOD7IMleft326ZM9oLCOLbACh7lH\necXHKcEFaxML6mn/24vbNmStOdlqRV1otK7L7mfQ+K2g47U/nE4hYItpAoGBAJPz\n0DE0KyfgQjCiMyxkpUF/XoEVg3OKaNnn8I+rFVuRDZaCwWYRM/LMI5LY+imbbjNh\nudplh/xhfB2gETHNhfbBPfvsPFa+lgQHewFAZUj51ca0kZ92lp19D2S92B6aeqju\nfJYOh++Go7yChB5K/2Dl7w/EwRd6bN82FmEKLFthAoGAXrXOMMlZ6O5vRdWGY/DR\n4iqr2BDBrl9HYTZu+WGTlqo0IW6rIPTjwkGP80QtERWrCH5plSVicg4NK13YXRyC\nE2gapIYr20J8VRJXh+ap/HEL9DvHyO3rxk1M+9d2MFJxlVdteQWrUpQIhtRIi65K\nBUDxLqmRAOKtGAc8o95nPG0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "psychosis@psychosis-367403.iam.gserviceaccount.com",
+  "client_id": "101599579768026905858",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/psychosis%40psychosis-367403.iam.gserviceaccount.com"
+}
